@@ -39,5 +39,5 @@ I love low level programming especially Rust or C ! I'm currently working on a B
 ### Badges 2
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbaiocchi)](https://github.com/nbaiocchi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbaiocchi&count_private=true)](https://github.com/nbaiocchi/github-readme-stats)
 
